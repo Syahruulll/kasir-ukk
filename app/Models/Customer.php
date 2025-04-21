@@ -20,3 +20,4 @@
                     return $this->hasMany(Pembelian::class);
                 }
             }
+//model
